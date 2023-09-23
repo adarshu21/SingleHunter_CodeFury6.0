@@ -5,11 +5,9 @@ This is a chatbot  designed to provide support, information, and guidance relate
 
 1. Clone this repository
 
+
 ```
-git clone https://github.com/Rogendo/Mental-health-Chatbot.git
-```
-```
-cd Mental-health-Chatbot/
+cd Health_Bot_GUI
 ```
 
 2. Create and activate virtual environment 
